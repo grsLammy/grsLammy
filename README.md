@@ -40,14 +40,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>  
 </details>
-
-  <a href="https://github.com/grsLammy/github-stats-transparent">
-    ![](https://github.com/grsLammy/github-stats-transparent/blob/output/generated/overview.svg)
-    ![](https://github.com/grsLammy/github-stats-transparent/blob/output/generated/languages.svg)
-  </a>
   
-  ![](https://github.com/grsLammy/github-stats-transparent/blob/output/generated/overview.svg)
-  ![](https://github.com/grsLammy/github-stats-transparent/blob/output/generated/languages.svg)
+ ![](https://github.com/grsLammy/github-stats-transparent/blob/output/generated/overview.svg)
+ ![](https://github.com/grsLammy/github-stats-transparent/blob/output/generated/languages.svg)
 
 
 
