@@ -11,17 +11,14 @@
 ### Connect with me:
 
 
-[![website](./img/youtube-light.svg)](https://youtube.com/c/lammyru#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/lammyru#gh-dark-mode-only)
+[![website](./img/youtube.svg)](https://youtube.com/c/lammyru#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/grspro98#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/grspro98#gh-dark-mode-only)
+[![website](./img/twitter.svg)](https://twitter.com/grspro98#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/gulam-rasul-shah-593b9a228/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/gulam-rasul-shah-593b9a228/#gh-dark-mode-only)
+[![website](./img/linkedin.svg)](https://www.linkedin.com/in/gulam-rasul-shah-593b9a228/#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/lammyru/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/lammyru/#gh-dark-mode-only)
+[![website](./img/instagram.svg)](https://www.instagram.com/lammyru/#gh-light-mode-only)
+
 
 ### Languages and Tools:
 
@@ -39,8 +36,6 @@
 
 <br />
 <br />
-
----\
 
 <details>
   <summary>:zap: GitHub Stats</summary>
