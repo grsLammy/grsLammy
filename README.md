@@ -1,6 +1,8 @@
 # Hi there, Gulam Rasul Shah - aka [LammyRu][youtube] 👋 
 
 - 👀 I’m interested in Blockchain, Web3, Ethereuem, NFT Game, DeFi, DApp etc
+- 🔭 I’m currently working on Blockchain and DApp
+- 👯 I’m looking to collaborate on Web3 Projects
 - 🌱 I’m currently learning the skills to become a Full stack DApp Developer
 - 🥅 2022 Goals: Learn more about web3
 - 🤔 Hate Frontend, working on it to improve
