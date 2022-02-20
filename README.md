@@ -10,14 +10,14 @@
 
 ### Connect with me:
 
+[<img align="left" alt="Youtube" width="18px" src="./img/youtube.svg" style="padding-right:10px;" />](https://youtube.com/lammyru)
+&nbsp;&nbsp;
+[<img align="left" alt="Twitter" width="18px" src="./img/twitter.svg" style="padding-right:10px;" />](https://twitter.com/grspro)
+&nbsp;&nbsp;
+[<img align="left" alt="LinkedIn" width="18px" src="./img/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/gulam-rasul-shah-593b9a228/#)
+&nbsp;&nbsp;
+[<img align="left" alt="instagram" width="18px" src="./img/instagram.svg" style="padding-right:10px;" />](https://instagram.com/lammyru
 
-[![website](./img/youtube.svg)](https://youtube.com/c/lammyru#gh-light-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter.svg)](https://twitter.com/grspro98#gh-light-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin.svg)](https://www.linkedin.com/in/gulam-rasul-shah-593b9a228/#gh-light-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram.svg)](https://www.instagram.com/lammyru/#gh-light-mode-only)
 
 
 ### Languages and Tools:
