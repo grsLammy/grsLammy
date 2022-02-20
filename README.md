@@ -10,13 +10,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Youtube" width="18px" src="./img/youtube.svg" style="padding-right:10px;" />](https://youtube.com/lammyru)
+[<img align="left" alt="Youtube" width="26px" src="./img/youtube.svg" style="padding-right:10px;" />](https://youtube.com/lammyru)
 &nbsp;&nbsp;
-[<img align="left" alt="Twitter" width="18px" src="./img/twitter.svg" style="padding-right:10px;" />](https://twitter.com/grspro)
+[<img align="left" alt="Twitter" width="26px" src="./img/twitter.svg" style="padding-right:10px;" />](https://twitter.com/grspro98)
 &nbsp;&nbsp;
-[<img align="left" alt="LinkedIn" width="18px" src="./img/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/gulam-rasul-shah-593b9a228/)
+[<img align="left" alt="LinkedIn" width="26px" src="./img/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/gulam-rasul-shah-593b9a228/)
 &nbsp;&nbsp;
-[<img align="left" alt="instagram" width="18px" src="./img/instagram.svg" style="padding-right:10px;" />](https://instagram.com/lammyru)
+[<img align="left" alt="instagram" width="26px" src="./img/instagram.svg" style="padding-right:10px;" />](https://instagram.com/lammyru)
 
 
 
@@ -44,7 +44,3 @@
 
 </details>
 
-[twitter]: https://twitter.com/grspro
-[youtube]: https://youtube.com/lammyru
-[instagram]: https://instagram.com/lammyru
-[linkedin]: https://www.linkedin.com/in/gulam-rasul-shah-593b9a228/
