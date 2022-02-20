@@ -1,5 +1,7 @@
 # Hi there, Gulam Rasul Shah - aka [LammyRu][youtube] 👋 
 
+[]! (https://i.ibb.co/SrcznGz/Happiness-Cultivate-Twitter-Header.png)
+
 - 👀 I’m interested in Blockchain, Web3, Ethereuem, NFT Game, DeFi, DApp etc
 - 🔭 I’m currently working on Blockchain and DApp
 - 👯 I’m looking to collaborate on Web3 Projects
