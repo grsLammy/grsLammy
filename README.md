@@ -39,11 +39,14 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  []!(https://raw.githubusercontent.com/grsLammy/github-stats-transparent/output/generated/overview.svg)
-  []!(https://raw.githubusercontent.com/grsLammy/github-stats-transparent/output/generated/languages.svg)
   
+  <a href="https://github.com/grsLammy/github-stats-transparent">
 
+    []!(https://raw.githubusercontent.com/grsLammy/github-stats-transparent/output/generated/overview.svg)
+    []!(https://raw.githubusercontent.com/grsLammy/github-stats-transparent/output/generated/languages.svg)
+
+  </a>
+  
 </details>
 
 [youtube]: https://youtube.com/lammyru
