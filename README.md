@@ -27,8 +27,8 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Solidity" width="18px" src="./img/Solidity.png" style="padding-right:10px;" />
-<img align="left" alt="Web3" width="26px" src="/img/Web3.png" style="padding-right:10px;" />
+<img align="left" alt="Solidity" width="18px" src="./img/solidity.svg" style="padding-right:10px;" />
+<img align="left" alt="Web3" width="26px" src="/img/web3.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
