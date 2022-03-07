@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Decentralised application Projects
 - 🌱 I’m currently learning the skills to become a Full stack DApp Developer
 - 🥅 2022 Goals: Learn more about.....everything there is to be 
-- 🤔 Hate Frontend
+- 🤔 Working on to improve Frontend
 - 💬 Ask me about anything
 - 📫 Email: grspro98@gmail.com
 - ⚡ Fun fact: I watch anime and i used to game alot :)
