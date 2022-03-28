@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Blockchain and DApp
 - 👯 I’m looking to collaborate on Decentralised application Projects
 - 🌱 I’m currently learning the skills to become a Full stack DApp Developer
-- 🥅 2022 Goals: Learn more about.....everything there is to be 
+- 🥅 2022 Goals: Learn more about.....web3 and decentralisation
 - 🤔 Working on to improve Frontend
 - 💬 Ask me about anything
 - 📫 Email: grspro98@gmail.com
