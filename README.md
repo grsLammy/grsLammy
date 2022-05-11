@@ -2,15 +2,15 @@
 
 ![](https://i.ibb.co/SrcznGz/Happiness-Cultivate-Twitter-Header.png)
 
-- 👀 I’m interested in Blockchain, Web3, Ethereuem, NFT Game, DeFi, DApp etc
 - 🔭 I’m currently working as Blockchain Engineer, Backend Developer & Polygon developer support
-- 👯 I’m looking to collaborate on Decentralised Web3 Projects
-- 🌱 I’m currently expanding my skills as a Blockchain DApp Developer
-- 🥅 2022 Goals: Learn more about.....web3 and decentralisation
-- 🤔 Working on to improve Frontend (don't enjoy it)
-- 💬 Feel free to approach me regarding web3 and blockchain :)
+- 👀 I’m interested in Web3, Blockchain, FPS Gaming, NFT Game, Decentralised Finance, DApp etc
+- 🌱 I’m currently expanding my skills as a Blockchain DApp Developer and Backend developer
+- 👯 I’m looking to collaborate on Decentralised Web3 projects and Backend projects.
+- 🥅 2022 Goals: Learn more about web3, Blockchain and decentralisation
+- 🤔 Working on improving Frontend??? (maybe xD as i don't enjoy it)
+- 💬 approach me regarding web3, blockchain & decentralization :)
+- ⚡ Fun fact: I enjoy anime & online FPS games :)
 - 📫 Email: grspro98@gmail.com
-- ⚡ Fun fact: I watch anime :)
 
 ### Connect with me:
 
