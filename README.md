@@ -7,7 +7,7 @@
 - 🌱 I’m currently expanding my skills as a Blockchain DApp Developer and Backend developer
 - 👯 I’m looking to collaborate on Decentralised Web3 projects and Backend projects.
 - 🥅 2022 Goals: Learn more about web3, Blockchain and decentralisation
-- 🤔 Working on improving Frontend??? (maybe xD as i don't enjoy it)
+- 🤔 Working on improving Frontend??? (maybe xD)
 - 💬 approach me regarding web3, blockchain & decentralization :)
 - ⚡ Fun fact: I enjoy anime & online FPS games :)
 - 📫 Email: grspro98@gmail.com
